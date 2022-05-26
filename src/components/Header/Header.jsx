@@ -43,9 +43,6 @@ function Header({ handle, handlecategory }) {
             type="button"
             data-toggle="collapse"
             data-target="#navbarDark"
-            // aria-controls="navbarDark"
-            // aria-expanded="false"
-            // aria-label="Toggle navigation"
           >
             <span className="navbar-toggler-icon"></span>
           </button>
