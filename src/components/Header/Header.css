@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 1.6rem 3.2rem;
+  text-align: center;
+  font-size: 1rem;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+.navbar:hover {
+  background-color: #3e8e41;
+  color: white;
+}
+.nav-link {
+  text-transform: capitalize;
+}
